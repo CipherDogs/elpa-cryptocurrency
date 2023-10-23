@@ -4,7 +4,7 @@
 
 ;; Author: DEADBLACKCLOVER <deadblackclover@protonmail.com>
 ;; Version: 1.0.0
-;; URL: https://github.com/CipherDogs/emacs-dot-ticker
+;; URL: https://github.com/CipherDogs/elpa-cryptocurrency
 ;; Package-Requires: ((emacs "25.1") (json "1.2") (request "0.2.0"))
 ;; Keywords: news
 
