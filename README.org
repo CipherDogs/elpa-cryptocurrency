@@ -1,0 +1,10 @@
+#+TITLE: ELPA cryptocurrencies
+ELPA repository linked to cryptocurrencies
+
+* Usage
+
+#+BEGIN_SRC elisp
+  (require 'package)
+
+  (add-to-list 'package-archives '("cryptocurrency" . "https://cipherdogs.net/elpa-cryptocurrency/") t)
+#+END_SRC
