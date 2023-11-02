@@ -2,4 +2,4 @@
   (dot-ticker . [(1 0 0) nil "Emacs minor-mode to display current Polkadot price on the mode-line" single])
   (xmr-ticker . [(1 0 0) nil "Emacs minor-mode to display current Monero price on the mode-line" single])
   (oxen-ticker . [(1 0 0) nil "Emacs minor-mode to display current Oxen price on the mode-line" single])
-) 
+)
